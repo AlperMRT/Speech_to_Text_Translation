@@ -1,0 +1,1 @@
+Hi, I am Alper. I am 23 years old. I am an AI student at Hacettepe University. This is our Speech to Text project for Machine Learning for Healthcare course. Let's see how accurate the model is.
